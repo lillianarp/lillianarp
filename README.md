@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lillianarp
 - 👀 I’m interested in building things
-- 🌱 I’m currently learning full stack web development
+- 🌱 I’m currently studying software development
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me best is by email: lillian.t.arp@gmail.com
 
