@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @lillianarp
-- 👀 I’m interested in building things
-- 🌱 I’m currently studying software development
-- 💞️ I’m looking to collaborate on interesting projects
-- 📫 How to reach me best is by email: lillian.t.arp@gmail.com
+- 👋 Hi, I’m @lillianarp 🌱
 
 <!---
 lillianarp/lillianarp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
